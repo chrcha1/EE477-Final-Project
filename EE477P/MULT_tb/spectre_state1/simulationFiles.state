@@ -1,0 +1,19 @@
+EVcdFile ""
+EVcdInfoFile ""
+VcdFile ""
+VcdInfoFile ""
+VectorFile ("/home/viterbi/01/caliang/work_gpdk045/mult_tb.vec")
+allDefinitionFiles nil
+allDspfFiles nil
+allIncludedPaths nil
+allPspiceFiles nil
+allSpefFiles nil
+allStimulusFiles nil
+allVectorFiles ((t "/home/viterbi/01/caliang/work_gpdk045/mult_tb.vec" "off"))
+definitionFiles nil
+dspfFile nil
+hlcheck "off"
+includePath ""
+pspiceFile nil
+spefFile nil
+stimulusFile nil

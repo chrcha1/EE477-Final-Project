@@ -1,0 +1,16 @@
+#
+# Edit Lock-Stake file. CAUTION: Please do not change.
+#
+# Information about current Edit Lock Owner.
+#
+LockStakeVersion               1.1
+LoginName                      cchatela
+HostName                       viterbi-scf2.usc.edu
+ProcessIdentifier              31780
+ProcessCreationTime_UTC        1730714737
+ProcessCreationTime_Readable   Mon Nov  4 02:05:37 2024 PST
+AppIdentifier                  OA File System Design Manager
+OSType                         unix
+ReasonForPlacingEditLock       OpenAccess edit lock
+FilePathUsedToEditLock         /home/viterbi/03/cchatela/work_gpdk045/EE477P/MULT4/schematic/sch.oa.cdslck.dirlck
+TimeEditLocked                 Mon Nov  4 13:50:17 2024 PST
